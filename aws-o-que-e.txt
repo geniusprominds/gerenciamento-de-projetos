@@ -1,0 +1,119 @@
+🌐 O que é AWS?
+A AWS (Amazon Web Services) é a plataforma de computação em nuvem da Amazon.
+
+🧠 Conceito de Computação em Nuvem
+A computação em nuvem consiste em fornecer recursos de TI — como armazenamento de dados, poder computacional, servidores, bancos de dados, redes, software e análise — pela internet, sob demanda. 
+Em vez de manter servidores físicos, as empresas podem acessar esses recursos remotamente, pagando apenas pelo que usam.
+
+A AWS é líder nesse setor, oferecendo infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS).
+
+🧰 Principais Serviços da AWS
+A AWS cobre praticamente todas as áreas da tecnologia:
+
+🔹 Computação
+Amazon EC2: Máquinas virtuais escaláveis.
+Lambda: Execução de código sem servidor (serverless).
+
+🔹 Armazenamento
+Amazon S3: Armazenamento de objetos.
+Amazon EBS: Armazenamento em blocos.
+Amazon Glacier: Arquivamento de longo prazo.
+
+🔹 Bancos de Dados
+Amazon RDS: Banco de dados relacional.
+Amazon DynamoDB: Banco NoSQL.
+Amazon Aurora: Alta performance com compatibilidade MySQL/PostgreSQL.
+
+🔹 Redes
+Amazon VPC: Redes privadas virtuais.
+Route 53: DNS escalável.
+CloudFront: CDN para entrega de conteúdo.
+
+🔹 Segurança
+IAM: Controle de acesso.
+KMS: Gerenciamento de chaves criptográficas.
+Shield: Proteção contra ataques DDoS.
+
+🔹 Inteligência Artificial e Machine Learning
+SageMaker: Treinamento e deploy de modelos.
+
+Rekognition: Análise de imagens e vídeos.
+
+Lex: Criação de chatbots.
+
+🏢 Quem usa a AWS?
+Milhões de clientes em todo o mundo usam a AWS, incluindo:
+
+Startups em crescimento
+Grandes corporações como Netflix, NASA e Airbnb
+Órgãos governamentais
+Instituições financeiras e educacionais
+
+A infraestrutura da AWS é projetada para atender aos requisitos de segurança de bancos, militares e organizações que lidam com dados sensíveis.
+
+💸 Modelo de Preços
+A AWS adota um modelo de pagamento por uso, ou seja, você paga apenas pelos recursos que consome. Isso inclui:
+
+Tempo de uso de instâncias
+
+Armazenamento de dados
+
+Transferência de dados
+
+Esse modelo permite flexibilidade e controle de custos.
+
+🌍 Infraestrutura Global
+A AWS está presente em dezenas de regiões ao redor do mundo, cada uma com múltiplas zonas de disponibilidade. Isso garante:
+
+Alta disponibilidade
+Redundância
+Baixa latência
+Resiliência contra falhas
+
+🧪 Casos de Uso
+A AWS é usada em diversos cenários:
+
+Hospedagem de sites e apps
+Análise de dados em larga escala
+Backup e recuperação de desastres
+Aplicações de IoT
+Streaming de vídeo
+Desenvolvimento de jogos
+
+🛠 Ferramentas de Desenvolvimento
+A AWS oferece SDKs para várias linguagens:
+
+Python (boto3)
+JavaScript (AWS SDK for JS)
+Java
+.NET
+Go
+
+Além disso, há ferramentas como:
+
+AWS CLI: Interface de linha de comando
+CloudFormation: Infraestrutura como código
+CDK: Infraestrutura como código com linguagens de programação
+
+🔐 Segurança e Conformidade
+A AWS investe fortemente em segurança:
+
+Criptografia de dados em trânsito e em repouso
+
+Monitoramento contínuo
+
+Certificações como ISO 27001, SOC 1/2/3, PCI DSS
+
+📚 Aprendizado e Certificações
+A AWS oferece treinamentos e certificações como:
+
+AWS Certified Solutions Architect
+AWS Certified Developer
+AWS Certified SysOps Administrator
+
+Essas certificações são altamente valorizadas no mercado de trabalho.
+
+🧾 Conclusão
+A AWS é muito mais do que uma plataforma de hospedagem: é um ecossistema completo que permite construir qualquer tipo de aplicação digital com escalabilidade, segurança e inovação. Seja você um desenvolvedor, arquiteto de soluções ou empreendedor, entender e dominar a AWS é um diferencial estratégico para o futuro da tecnologia.
+
+E aqui na Genius Pro Minds utilizamos os serviços da AWS!
