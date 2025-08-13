@@ -11,7 +11,7 @@ Azure - Microsoft
 
 🧠 Estratégias para organizar projeto
 1. Use uma ferramenta de gerenciamento de projetos
-Aqui na Genius Pro Minds, utilizamos a ferramenta Trello para controle das tarefas.
+Aqui na Genius Pro Minds, utilizamos a ferramenta Azure Board e AWS Code Pipeline para controle das tarefas.
 
 Com essa ferramenta conseguimos criar um quadro para cada projeto com listas de tarefas, prazos e responsáveis.
 
