@@ -27,7 +27,7 @@ SQS (filas de mensagens)
 
 SNS (notificações)
 
-Secrets Manager, Kinesis, CloudFormation, entre outros3.
+Secrets Manager, Kinesis, CloudFormation, entre outros.
 
 🛠️ Casos de uso
 Testes automatizados Ideal para rodar testes de integração sem depender da nuvem.
