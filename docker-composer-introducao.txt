@@ -1,0 +1,36 @@
+# docker-composer-introducao
+
+O Docker Compose é uma ferramenta que facilita a definição e execução de aplicações que usam múltiplos containers Docker. 
+Em vez de iniciar cada container manualmente com comandos longos e complexos, o Docker Compose permite que você configure tudo em um único arquivo chamado docker-compose.yml e execute com um simples comando.
+
+🧩 Principais características do Docker Compose
+Automatiza o provisionamento de containers: Você define os serviços, redes e volumes em um arquivo YAML.
+
+Ideal para ambientes de desenvolvimento: Permite simular ambientes completos localmente.
+
+Gerencia múltiplos containers como um só: Com docker-compose up, todos os serviços são iniciados juntos.
+
+📄 Exemplo básico de docker-compose.yml
+yaml
+version: '3.8'
+services:
+  web:
+    image: nginx
+    ports:
+      - "8080:80"
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: exemplo123
+
+Esse exemplo inicia dois containers: um servidor web com Nginx e um banco de dados PostgreSQL, conectados e configurados automaticamente.
+
+⚙️ Comandos úteis
+docker-compose up: Inicia todos os serviços definidos.
+docker-compose down: Para e remove os containers, redes e volumes.
+docker-compose logs: Exibe os logs dos serviços.
+docker-compose ps: Lista os containers em execução.
+
+Fonte:  4Linux.
+
+  
